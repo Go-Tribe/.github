@@ -20,4 +20,4 @@
 ### 业务主题
 | 主题          | 描述        | 地址                                           |
 |-------------|-----------|----------------------------------------------| 
-| gotrbe-blog | 一个简单的博客主题 | https://github.com/go-tribe/gotribe-blog.git  |
+| gotribe-blog | 一个简单的博客主题 | https://github.com/go-tribe/gotribe-blog.git  |
